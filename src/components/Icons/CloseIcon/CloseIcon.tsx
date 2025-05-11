@@ -11,7 +11,7 @@ export default function CloseIcon({ className }: { className?: string }) {
         y1="6"
         x2="6"
         y2="18"
-        stroke="black"
+        stroke="white"
         strokeWidth="2"
         strokeLinecap="round"
       />
@@ -20,7 +20,7 @@ export default function CloseIcon({ className }: { className?: string }) {
         y1="6"
         x2="18"
         y2="18"
-        stroke="black"
+        stroke="white"
         strokeWidth="2"
         strokeLinecap="round"
       />

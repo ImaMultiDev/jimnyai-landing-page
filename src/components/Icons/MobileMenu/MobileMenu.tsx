@@ -8,19 +8,19 @@ export default function MobileMenu({ className }: { className?: string }) {
     >
       <path
         d="M1 1.25H30"
-        stroke="black"
+        stroke="white"
         strokeWidth="2"
         strokeLinecap="round"
       />
       <path
         d="M9.5 9.25H30"
-        stroke="black"
+        stroke="white"
         strokeWidth="2"
         strokeLinecap="round"
       />
       <path
         d="M1 17.75H30"
-        stroke="black"
+        stroke="white"
         strokeWidth="2"
         strokeLinecap="round"
       />
